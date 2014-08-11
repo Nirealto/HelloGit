@@ -1,4 +1,4 @@
 HelloGit
 ========
 
-FirstRep
+Тестирования git
